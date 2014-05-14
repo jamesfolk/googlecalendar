@@ -389,8 +389,8 @@
             // So, show the activity indicator view and authorize the user by calling the the next
             // method of our custom-made class.            
             [self showOrHideActivityIndicatorView];
-            [_googleOAuth authorizeUserWithClienID:@"YOUR_CLIENT_ID"
-                                   andClientSecret:@"YOUR_CLIENT_SECRET"
+            [_googleOAuth authorizeUserWithClienID:@"813506780157-ko5f1v2qb0h6ib2i76clgta1cl6jca89.apps.googleusercontent.com"
+                                   andClientSecret:@"Is6dIBv1G_zR1brvxCz9YBi0"
                                      andParentView:self.view
                                          andScopes:[NSArray arrayWithObject:@"https://www.googleapis.com/auth/calendar"]];
         }

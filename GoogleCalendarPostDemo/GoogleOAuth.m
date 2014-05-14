@@ -99,6 +99,7 @@
         // Set the redirect URI.
         // This is taken from the Google Developers Console.
         _redirectUri = @"urn:ietf:wg:oauth:2.0:oob";
+//        _redirectUri=@"http://localhost";
         
         // Make any other required initializations.
         _receivedData = [[NSMutableData alloc] init];
