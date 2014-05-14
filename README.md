@@ -8,3 +8,10 @@
 |Bundle ID     | com.jamesfolk.GoogleCalendarPostDemo
 |App Store ID  |     
 |Deep linking  | Disabled
+
+`https://www.googleapis.com/calendar/v3/calendars/jamesfolk1@gmail.com/events/quickAdd?access_token=ya29.1.AADtN_VhitHmroAGFRAR02BvK6B_stZlKSQi1ZZjcQe6kWdbPV3FC7DloeG-FcM0xG2PTg`
+
+`calendarId=jamesfolk1@gmail.com&text=Ttttttt 5/26/2014`
+
+`Content-Type=application/x-www-form-urlencoded`
+
